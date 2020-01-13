@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pom\n"
+"Project-Id-Version: Wordpress POEditor Plugin\n"
+"Language: ro\n"
+
+#: views/changeApiKey.php:8
+msgid "Change your POEditor API Token"
+msgstr "Schimbați cheia pentru POEditor API"
+
+#: views/changeApiKey.php:12
+#: views/index_nokey.php:14
+msgid "POEditor API Token"
+msgstr "CHEIA pentru POEditor API "
+
+#: 
+msgid "API Token key"
+msgstr "CHEIA pentru POEditor API "
